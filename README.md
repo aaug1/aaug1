@@ -28,7 +28,3 @@ Here are some ideas to get you started:
 
 ---
 
-### :man_technologist: About Me:
-- I am a senior at Johns Hopkins University, majoring in Computer Science and Biomedical Engineering
-- My interests include Data Science, SWE, AI, ML, and Singal Processing
-
